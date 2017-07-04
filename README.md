@@ -1,0 +1,1 @@
+# sw-gql-cache
